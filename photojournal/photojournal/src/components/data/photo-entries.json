@@ -1,0 +1,58 @@
+{
+  "itemlist" :
+  [
+    {
+      "src"      : "berlin.jpeg",
+      "caption"  : "The Heart of Europe",
+      "location" : "Berlin, Germany"
+    },
+
+    {
+      "src"      : "beverly-hills.jpeg",
+      "caption"  : "Southern California",
+      "location" : "Beverly Hills, USA"
+    },
+
+    {
+      "src"      : "maple-leaf.jpeg",
+      "caption"  : "Autumn",
+      "location" : "Toronto, Canada"
+    },
+
+    {
+      "src"      : "hawaii.jpeg",
+      "caption"  : "Deep Thought",
+      "location" : "Kona, Hawaii, USA"
+    },
+
+    {
+      "src"      : "wings.jpeg",
+      "caption"  : "Wanderlust",
+      "location" : "San Francisco, USA"
+    },
+
+    {
+      "src"      : "london.jpeg",
+      "caption"  : "Trafalgar Square",
+      "location" : "London, UK"
+    },
+
+    {
+      "src"      : "graduation_photo.jpg",
+      "caption"  : "Austin Graduates",
+      "location" : "Boulder, Colorado"
+    },
+
+    {
+      "src"      : "Daxers.jpeg",
+      "caption"  : "Dax, my doggo!",
+      "location" : "Colorado"
+    },
+
+    {
+      "src"      : "cu-buffaloes-1.jpg",
+      "caption"  : "Colorado Buffaloes",
+      "location" : "Boulder, Colorado"
+    }
+  ]
+}

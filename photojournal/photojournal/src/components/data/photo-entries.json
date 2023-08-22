@@ -38,18 +38,6 @@
     },
 
     {
-      "src"      : "graduation_photo.jpg",
-      "caption"  : "Austin Graduates",
-      "location" : "Boulder, Colorado"
-    },
-
-    {
-      "src"      : "Daxers.jpeg",
-      "caption"  : "Dax, my doggo!",
-      "location" : "Colorado"
-    },
-
-    {
       "src"      : "cu-buffaloes-1.jpg",
       "caption"  : "Colorado Buffaloes",
       "location" : "Boulder, Colorado"

@@ -24,7 +24,7 @@ function Resume(props, state) {
         <div>
           <h1>Welcome to my Resume!</h1>
           <EditableTextBox name="Your Text"/>
-          <h3>Austin Metzner</h3>
+          <h3>Name HERE</h3>
         </div>
       </header>
     </div>

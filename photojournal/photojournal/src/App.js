@@ -21,7 +21,7 @@ function App(props, state) {
         <BannerImage />
         <div>
           <h1>Welcome to my Photojournal!</h1>
-          <h3>Austin Metzner</h3>
+          <h3>NAME HERE</h3>
           <AlbumMaker />
         </div>
       </header>

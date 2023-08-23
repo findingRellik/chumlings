@@ -17,10 +17,10 @@ function App(props, state) {
     <div className="App">
       <header className="App-header">
         <SideNav width={wid} closeNav={closeSidenav} />
-        <button className="menu-button" onClick={openSidenav}>MENU</button>
+        <img src="../images/menu-icon.png" className="menu-button" onClick={openSidenav}></img>
         <BannerImage />
         <div>
-          <h1>Welcome to my Photojournal!</h1>
+          <h1>Welcome to my Website!</h1>
           <h3>NAME HERE</h3>
           <AlbumMaker />
         </div>

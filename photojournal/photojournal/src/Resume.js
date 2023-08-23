@@ -17,8 +17,8 @@ function Resume(props, state) {
     <div className="App">
       <header className="App-header">
         <div>
-          <button className="menu-button" onClick={openSidenav}>MENU</button>
-          <SideNav width={wid} closeNav={closeSidenav} />
+        <img src="../images/menu-icon.png" className="menu-button" onClick={openSidenav}></img>
+        <SideNav width={wid} closeNav={closeSidenav} />
         </div>
         <BannerImage />
         <div>

@@ -27,9 +27,9 @@ class EditableTextBox extends React.Component {
         return (
           <div className='editable-text-box'>
             {/* <input type="text" name="userName" value={this.state.name} placeholder="Enter your name..." onChange={this.handleChange} onBlur={this.updateIsEdit}/> */}
-            <input type="text" name="userName" value={this.state.name} placeholder="Enter your name..."/>
+            <input type="text" name="text" value={this.state.name} onChange={this.handleChange} placeholder="Enter text..."/>
             <button className="edit-button" onClick={this.handleChange}>EDIT</button>
-            <p id="name">{this.state.name}</p>
+            <p id="text">{this.state.name}</p>
           </div>
         );
     }
